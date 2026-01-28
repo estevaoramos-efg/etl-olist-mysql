@@ -1,4 +1,4 @@
-![Banner do Projeto](assets/banner.png)
+![Banner do Projeto](ETL em MySQL - Dataset Olist/assets/banner.png)
 
 # Projeto Integrador: ETL de E-commerce (Olist) com MySQL
 
